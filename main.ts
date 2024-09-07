@@ -1,5 +1,5 @@
 let list = []
-//dont use last 5 colloms of 0s
+//dont use the first and last 5 colloms of 0s
 namespace dot_maps {
     //% block=Map1
     export function map1(): number[] {
